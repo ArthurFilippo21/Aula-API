@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1820",
+    "Descrição": "Pamonha",
+    "Preço": "10",
+    "Qtd": "1"
+  },
+  {
+    "id": "d79d",
+    "Descrição": "caldo de cana",
+    "Preço": "7",
+    "Qtd": "20"
+  },
+  {
+    "id": "d89d",
+    "Descrição": "banana",
+    "Preço": "3",
+    "Qtd": "69"
+  },
+  {
+    "id": "1a1f",
+    "Descrição": "bolo de milho",
+    "Preço": "15",
+    "Qtd": "11"
+  },
+  {
+    "id": "c2d4",
+    "Descrição": "café",
+    "Preço": "2.5",
+    "Qtd": "30"
+  }
+]

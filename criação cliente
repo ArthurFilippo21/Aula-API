@@ -1,0 +1,37 @@
+[
+  {
+    "Nome": "Arthur",
+    "endereço": "no coração dela",
+    "casado": true,
+    "renda": "10 DOL PER MOUNTH",
+    "id": "a0e3"
+  },
+  {
+    "Nome": "Nicolas",
+    "endereço": "la ele",
+    "casado": false,
+    "renda": "1 doleta por semana",
+    "id": "00c2"
+  },
+  {
+    "id": "c226",
+    "Nome": "jORGINHO",
+    "endereço": "TILANBUCANO",
+    "casado": true,
+    "renda": 2
+  },
+  {
+    "id": "a943",
+    "Nome": "dEIDE cOSTA",
+    "endereço": "MATO GROSSO",
+    "casado": false,
+    "renda": 0.01
+  },
+  {
+    "Nome": "CuCa CaBeLuDo",
+    "endereço": "Angolia",
+    "casado": true,
+    "renda": "2 kwanzas",
+    "id": "ead4"
+  }
+]
